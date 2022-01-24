@@ -1,7 +1,7 @@
 | WEATHER  | STATION |
 | ------ | ----- |
 
-PT PJB PAITON
+PLTB
 =============
 
 Author      : Ujang Supriyadi<br/>
